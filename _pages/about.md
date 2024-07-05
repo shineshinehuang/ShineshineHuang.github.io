@@ -10,5 +10,6 @@ redirect_from:
 
 I'm a third year undergraduate student from [School of Management](http://www.som.zju.edu.cn/), [Zhejiang University](https://www.zju.edu.cn/). 
 
-I have a very cute boyfriend
+I have a very cute boyfriend named He Xu
+
 [Email](mailto:shinehuanghss@gmail,com) / [Github](https://github.com/shineshinehuang) / [Wechat](../images/wechat.jpg)
